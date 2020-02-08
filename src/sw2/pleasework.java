@@ -6,6 +6,8 @@ public class pleasework {
 		// TODO Auto-generated method stub
 		print("hussein");
 		print("hussein");
+		print("hussein");
+		print("hussein");
 	}
 
 	private static void print(String string) {
